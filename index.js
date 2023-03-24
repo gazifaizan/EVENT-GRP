@@ -1,1 +1,1 @@
-33
+console.log(33);
